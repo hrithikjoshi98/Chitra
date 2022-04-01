@@ -1,7 +1,7 @@
 
 # Chitra
 
-Chitra is a library which has capablity to give you multiple images from storage. It is look like a gallery which has folders of images with foldername. If you click on particular folder you can see images of that particular folder. You can select or unselect images even you can zoom each and every images. We provided preview portion where you can see all selected images even you can remove images from that preview portion. The main benifit of this library is you can select multiple images from multiple folders and view each selected images in preview portion and you can remove it. Even programmer can set limit of image selection. If you want only ten images you can set limit here. Even you don't want to select same image and If you want to keep old images selected, then you can do that also.
+Chitra is a library which has capablity to give you multiple images from storage. It is look like a gallery which has folders of images with foldername. If you click on particular folder you can see images of that particular folder. You can select or unselect images even you can zoom each and every images. We provided preview portion where you can see all selected images even you can remove images from that preview portion. The main benefit of this library is you can select multiple images from multiple folders and view each selected images in preview portion and you can remove it. Even programmer can set limit of image selection. If you want only ten images you can set limit here. Even you don't want to select same image and If you want to keep old images selected, then you can do that also.
 
 # Use
 
