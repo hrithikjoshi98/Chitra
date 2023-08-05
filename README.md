@@ -11,7 +11,7 @@ Here we have provided some code so you can understand better.
 
 #### Here you can get multiple images.
 
-```http
+```
   Bildbekommen bildbekommen;
   private Button btn_first;
 
@@ -36,7 +36,7 @@ Here we have provided some code so you can understand better.
 
 #### Here you can get multiple images even you can set image selection limit.
 
-```http
+```
   Bildbekommen bildbekommen;
   private Button btn_second;
 
@@ -61,7 +61,7 @@ Here we have provided some code so you can understand better.
 
 #### Here you can get multiple images even If you want to keep old images selected here you can do it.
 
-```http
+```
   Bildbekommen bildbekommen;
   private Button btn_thired;
   private ArrayList<String> list, old_selected_images_list;
@@ -91,7 +91,7 @@ Here we have provided some code so you can understand better.
 
 #### Here you can get multiple images even you can set image selection limit end If you want to keep old images selected here you can do it.
 
-```http
+```
   Bildbekommen bildbekommen;
   private Button btn_fourth;
   private ArrayList<String> list, old_selected_images_list;
@@ -121,7 +121,7 @@ Here we have provided some code so you can understand better.
 
 #### Put this code in build.gradle (project)
 
-```http
+```
   allprojects {
     repositories {
         google()
@@ -133,7 +133,7 @@ Here we have provided some code so you can understand better.
 ```
 #### Put this code in build.gradle (app)
 
-```http
+```
   dependencies {
     implementation 'com.github.J-Neutron:Chitra:1.0.0'
   }
